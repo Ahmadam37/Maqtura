@@ -22,3 +22,6 @@ This is the home page sction.
 
 ![image](https://user-images.githubusercontent.com/51037193/137271605-02b95a8f-f1fe-4706-bc3e-8f7e98a1ab1c.png)
 
+
+
+![image](https://user-images.githubusercontent.com/51037193/137274986-f3f28c7d-5f28-4be2-b446-a799706186df.png)
