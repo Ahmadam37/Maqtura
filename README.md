@@ -20,4 +20,5 @@ This is the home page sction.
 
 
 
-![image](https://user-images.githubusercontent.com/51037193/137271418-fb8b5000-a348-4eec-818d-9d3a4eb67a12.png)
+![image](https://user-images.githubusercontent.com/51037193/137271605-02b95a8f-f1fe-4706-bc3e-8f7e98a1ab1c.png)
+
