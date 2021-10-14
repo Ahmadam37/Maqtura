@@ -14,3 +14,6 @@ This is the home page sction.
 
 ![image](https://user-images.githubusercontent.com/51037193/137269310-e2400558-4d62-4e2c-b75b-96ea0687292f.png)
 
+
+
+![MaqturaGIF](https://user-images.githubusercontent.com/51037193/137270743-d4723961-78a7-4e5d-8cf9-f16b392bf518.gif)
